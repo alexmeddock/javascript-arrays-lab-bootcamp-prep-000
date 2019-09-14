@@ -5,4 +5,6 @@ return kittens.push('Ralph')
 function destructivelyPrependKitten(name) {
   return kittens.unshift('Bob')
 }
-function 
+function destructivelyRemoveLastKitten() {
+  return kittens.
+}
