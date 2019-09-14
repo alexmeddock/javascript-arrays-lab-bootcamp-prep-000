@@ -1,3 +1,3 @@
 var kittens = ['Milo', 'Otis', 'Garfield' ]
 function destructivelyAppendKitten(name)
-kittens.unshift('Sherlock')
+return kittens.unshift('sherlock')
